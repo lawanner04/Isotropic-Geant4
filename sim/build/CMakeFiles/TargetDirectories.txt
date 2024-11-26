@@ -1,0 +1,4 @@
+/home/lawanner/sim/build/CMakeFiles/rebuild_cache.dir
+/home/lawanner/sim/build/CMakeFiles/Simulation.dir
+/home/lawanner/sim/build/CMakeFiles/edit_cache.dir
+/home/lawanner/sim/build/CMakeFiles/sim.dir
