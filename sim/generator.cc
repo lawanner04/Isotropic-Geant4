@@ -4,7 +4,7 @@
  AUTHOR: Luke Wanner
  Colorado School of Mines - Physics
 
- Geants4 Simulation of Edgar Mine Muon Detectors -
+ Geant4 Simulation of Edgar Mine Muon Detectors -
  Isotropic geantino production on the surface of a sphere
  
 -----------------------------------*/
