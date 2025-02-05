@@ -352,6 +352,33 @@ sim.cc.s:
 	$(MAKE) -f CMakeFiles/sim.dir/build.make CMakeFiles/sim.dir/sim.cc.s
 .PHONY : sim.cc.s
 
+simManager.o: simManager.cc.o
+
+.PHONY : simManager.o
+
+# target to build an object file
+simManager.cc.o:
+	$(MAKE) -f CMakeFiles/sim.dir/build.make CMakeFiles/sim.dir/simManager.cc.o
+.PHONY : simManager.cc.o
+
+simManager.i: simManager.cc.i
+
+.PHONY : simManager.i
+
+# target to preprocess a source file
+simManager.cc.i:
+	$(MAKE) -f CMakeFiles/sim.dir/build.make CMakeFiles/sim.dir/simManager.cc.i
+.PHONY : simManager.cc.i
+
+simManager.s: simManager.cc.s
+
+.PHONY : simManager.s
+
+# target to generate assembly for a file
+simManager.cc.s:
+	$(MAKE) -f CMakeFiles/sim.dir/build.make CMakeFiles/sim.dir/simManager.cc.s
+.PHONY : simManager.cc.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -386,6 +413,9 @@ help:
 	@echo "... sim.o"
 	@echo "... sim.i"
 	@echo "... sim.s"
+	@echo "... simManager.o"
+	@echo "... simManager.i"
+	@echo "... simManager.s"
 .PHONY : help
 
 

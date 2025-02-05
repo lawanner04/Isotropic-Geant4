@@ -1,0 +1,4 @@
+/home/lawanner/Isotropic-Geant4/sim/build/CMakeFiles/rebuild_cache.dir
+/home/lawanner/Isotropic-Geant4/sim/build/CMakeFiles/Simulation.dir
+/home/lawanner/Isotropic-Geant4/sim/build/CMakeFiles/edit_cache.dir
+/home/lawanner/Isotropic-Geant4/sim/build/CMakeFiles/sim.dir

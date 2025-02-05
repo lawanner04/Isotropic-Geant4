@@ -36,6 +36,7 @@ private:
     G4LogicalVolume* logicDetectorTop;
     G4LogicalVolume* logicDetectorBot;
     virtual void ConstructSDandField();
+    G4Box* constructDetectorVolume();
 };
 
 #endif
