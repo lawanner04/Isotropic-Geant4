@@ -10,8 +10,7 @@
 -----------------------------------*/
 
 #include "generator.hh"
-#include "GlobalFile.hh"
-#include "G4Event.hh"
+
 
 MyPrimaryGenerator::MyPrimaryGenerator() {
     fParticleGun = new G4ParticleGun(1);

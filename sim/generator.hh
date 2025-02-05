@@ -17,6 +17,8 @@
 #include "G4SystemOfUnits.hh"
 #include "G4ParticleTable.hh"
 #include "Randomize.hh"
+#include "GlobalFile.hh"
+#include "G4Event.hh"
 
 class MyPrimaryGenerator : public G4VUserPrimaryGeneratorAction{
 
